@@ -1,2 +1,2 @@
 # Credit-Risk-Financial-Behavior-Analysis-EDA-Project
-We have a Banking dataset with 10k entries of 12500 unique customers. In whic
+Performed in-depth exploratory data analysis on financial datasets to uncover patterns in credit behavior. Skilled in Python, Pandas, NumPy, and data visualization for actionable insights.
